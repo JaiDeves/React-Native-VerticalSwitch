@@ -1,4 +1,4 @@
 # React-Native-VerticalSwitch
 
 
-![](switch.gif)
+![](Switch.gif)
